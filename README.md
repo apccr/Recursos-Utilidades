@@ -1,7 +1,7 @@
 # Recursos & Utilidades
 
 Hola!
-Me llamo Adrian Campos, y soy animador & desarrollador independiente 🕹.
+Me llamo Adrian Campos, y soy animador y desarrollador independiente 🕹.
 
 En mi canal de youtube APC comparto contenido educativo y divulgativo sobre animación y videojuegos, además de otras facilidades en programas para el uso diario, amo los videojuegos y con mis videos me gustaría poder motivarlos a seguir adelante con sus proyectos.
 
