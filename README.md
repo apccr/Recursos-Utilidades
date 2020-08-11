@@ -1,10 +1,9 @@
 # Recursos & Utilidades
 
-Hola!
-Mi nombre es Adrian Campos, y soy animador y desarrollador independiente 🕹.
+Hola! mi nombre es Adrian Campos, soy animador digital y desarrollador de videojuegos independiente 🕹.
 
-En mi canal de youtube APC comparto contenido educativo y divulgativo sobre animación y videojuegos, además de otras facilidades en programas para el uso diario, amo los videojuegos y con mis videos me gustaría poder motivarlos a seguir adelante con sus proyectos.
+En mi canal de youtube APC comparto material con contenido educativo y divulgativo sobre animación digital y videojuegos, además de información relevante sobre la utilización programas relacionados al área creativa.
 
-Decidí abrir este repositorio para los contribuyentes en patreon y poder brindar mayores facilidades y apoyo a todos aquellos artistas y desarrolladores que lo necesiten, las contraseñas de los Zip Files estarán disponibles en el Patreon marcado como sponsor en este repositorio. 
+Hice este repositorio para los contribuyentes en patreon, las contraseñas de los Zip Files estarán disponibles en el Patreon marcado como sponsor en este repositorio. 
 
 Muchas gracias de antemano! 😊.
